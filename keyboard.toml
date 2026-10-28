@@ -22,6 +22,6 @@ direct_pin_low_active = true
 [[keymap.layer]]
 keys = [
     "STN(S1)", "STN(T)", "STN(P)", "STN(H)", "STN(STAR1)", "_", "STN(RF)", "STN(RP)", "STN(RL)", "STN(RT)", "STN(RD)",
-    "_", "STN(K)", "STN(W)", "STN(R)", "_", "_" "STN(RR)", "STN(RB)", "STN(RG)", "STN(RS)", "STN(RZ)",
+    "_", "STN(K)", "STN(W)", "STN(R)", "_", "_", "STN(RR)", "STN(RB)", "STN(RG)", "STN(RS)", "STN(RZ)",
     "_", "_", "STN(NUM1)", "STN(A)", "STN(O)", "STN(E)", "STN(U)", "_", "_", "_", "_"
 ]
